@@ -11,5 +11,5 @@ The Password Manager is a simple web application that allows users to securely s
 -   **Delete Passwords:** Remove passwords from the storage.
 
 
-![alt text](http://url/to/Screenshot2024-03-21224152.png)
+![alt text](https://github.com/vaibhav/Mr.manager/frontend/public/look.png)
 
