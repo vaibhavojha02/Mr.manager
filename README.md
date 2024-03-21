@@ -9,6 +9,8 @@ The Password Manager is a simple web application that allows users to securely s
 -   **Store Passwords:** Add new passwords along with their corresponding usernames and website URLs.
 -   **Retrieve Passwords:** View a list of stored passwords along with their details.
 -   **Delete Passwords:** Remove passwords from the storage.
+-   **Edit Passwords:** You can also edit your password.
+-   
 
 
 ![alt text](frontend/public/look.png)
